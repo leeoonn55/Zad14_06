@@ -1,0 +1,24 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  color: #f58e07;
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+
+button {
+  margin: 10px 0;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.buttonZmiana {
+  margin-right: 15px;
+}
+/*# sourceMappingURL=style.css.map */
